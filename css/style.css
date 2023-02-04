@@ -16,12 +16,13 @@ nav ul li{
     margin: 50px;
     font-size: 16pt;
     background-color: #FDE3BC;
-    color: black;
+
 }
 
 nav a{
     /* Set text decoration*/
     text-decoration: none;
+    color: black;
 }
 
 a:visited{
